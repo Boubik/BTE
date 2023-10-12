@@ -58,4 +58,44 @@
 
 - **Příprava na reálný svět**: CTF soutěže připravují účastníky na reálné kybernetické hrozby a poskytují jim praktické zkušenosti, které jsou cenné pro kyberbezpečnostní profesionály.
 
-Tento úvodní odstavec poskytuje čtenářům rychlý přehled o tom, co CTF je a proč je kyberbezpečnost důležitým prvkem těchto soutěží.
+# Kategorie úkolů v CTF
+
+## Kyberbezpečnostní úkoly v CTF
+- **Definice kyberbezpečnostních úkolů**: Kyberbezpečnostní úkoly jsou základní součástí CTF soutěží. Mohou zahrnovat hacking, analýzu zranitelností, zabezpečení sítí a aplikací, a další kyberbezpečnostní výzvy.
+
+- **Příklady úkolů**: Příklady mohou zahrnovat exfiltraci dat z cílového systému, odhalování zranitelností a provádění penetration testů.
+
+## Kryptografické úkoly
+- **Definice kryptografických úkolů**: Kryptografické úkoly vyžadují znalosti o šifrování, dešifrování a kryptografických protokolech. Účastníci mohou být vyzváni k prolomení šifrovaných zpráv a klíčů.
+
+- **Příklady úkolů**: Příklady zahrnují dešifrování šifrovaných textů, analýzu kryptografických klíčů a prolomení šifrovacích algoritmů.
+
+## Reversing úkoly
+- **Definice reversing úkolů**: Reversing úkoly vyžadují analýzu a dekompilaci softwaru nebo firmware. Účastníci musí odhalit skrytý kód a funkcionalitu.
+
+- **Příklady úkolů**: Příklady zahrnují analýzu a dekompilaci spustitelných souborů, odhalení záhadných funkcí a odstranění ochrany proti reverznímu inženýrství.
+
+## Web aplikace a SQL Injection
+- **Definice úkolů týkajících se web aplikací**: Úkoly spojené s web aplikacemi se zaměřují na identifikaci a využívání zranitelností v webových aplikacích. SQL Injection je často součástí těchto úkolů.
+
+- **Příklady úkolů**: Příklady zahrnují objevení a zneužití SQL Injection zranitelností, cross-site scripting (XSS) útoky a analýzu HTTP komunikace.
+
+## Network Forensics
+- **Definice úkolů v oblasti Network Forensics**: Úkoly v oblasti network forensics vyžadují analýzu síťové komunikace a detekci anomálií. Účastníci mohou být vyzváni k rekonstrukci útoků na základě síťových stop.
+
+- **Příklady úkolů**: Příklady zahrnují analýzu síťového provozu, identifikaci komunikačních vzorů a detekci neobvyklých aktivit v síti.
+
+## Steganografie
+- **Definice steganografických úkolů**: Steganografické úkoly se týkají skrytí informací v digitálních médiích, jako jsou obrázky, zvuky nebo videa. Účastníci musí odhalit skryté zprávy.
+
+- **Příklady úkolů**: Příklady zahrnují odhalení skrytých zpráv v obrázcích, analýzu neviditelných dat v médiích a extrakci skrytých informací.
+
+## Další kategorie úkolů
+- **Ostatní úkoly**: CTF soutěže mohou obsahovat i další kategorie úkolů, jako jsou IoT hacking, binary exploitation, hardware hacking a mnoho dalšího.
+
+- **Příklady úkolů**: Příklady dalších úkolů závisí na konkrétních tématech a technologiích, které jsou v soutěži zahrnuty.
+
+Tato část obsahu detailně popisuje různé kategorie úkolů, které mohou být součástí CTF soutěží, a poskytuje příklady úkolů v každé kategorii.
+
+
+
