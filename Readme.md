@@ -159,13 +159,10 @@ Tato část obsahu detailně popisuje různé kategorie úkolů, které mohou b�
 - **Příklady ochranných opatření**: Příklady zahrnují izolaci CTF infrastruktury od provozu v reálném světě, pravidelnou aktualizaci a zabezpečení serverů a monitorování síťového provozu pro odhalení neobvyklých aktivit.
 
 # Etické a Právní Aspekty CTF
-- **Etické chování v CTF**: Účastníci by měli dodržovat etický kodex a respektovat pravidla soutěže. Porušení etických pravidel může vést k diskvalifikaci.
 
-- **Právní aspekty provádění CTF**: Provozovatelé CTF soutěží by měli být obezřetní ohledně právních aspektů, včetně autorských práv a dodržování zákonů o kybernetické bezpečnosti.
+## Etické chování v rámci CTF
+- **Definice etického chování**: Etické chování v CTF je zásadní. Účastníci by měli respektovat pravidla soutěže a dodržovat etický kodex kyberbezpečnosti. Neetické chování může mít vážné důsledky, včetně diskvalifikace.
 
-Tato část obsahu se zaměřuje na bezpečnostní rizika, která mohou vzniknout v průběhu CTF soutěží, a na opatření, která lze přijmout pro ochranu infrastruktury a účastníků. Též zdůrazňuje důležitost etického chování a právních aspektů CTF.
-
-
-
-
+## Právní aspekty provádění CTF
+- **Právní aspekty CTF**: Provozovatelé CTF soutěží by měli být obezřetní ohledně právních aspektů. To zahrnuje dodržování autorských práv, ochranu osobních údajů a dodržování zákonů o kybernetické bezpečnosti. Náležitá dohoda o pravidlech a podmínkách soutěže by měla být vytvořena a respektována.
 
