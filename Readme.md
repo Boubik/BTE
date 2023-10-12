@@ -37,6 +37,9 @@
 - [Trendy v oblasti CTF soutěží](
 - [Vývoj kyberbezpečnostních výzev v CTF](
 
+## [Vědecké práce na téma CTF](#vědecké-práce-na-téma-ctf-1)
+- [Výhody a nevýhody používání ctf na Univerzitních koužkách\(Benefits and Pitfalls of Using Capture the Flag Games in University Courses\)](#výhody-a-nevýhody-používání-ctf-na-univerzitních-koužkáchbenefits-and-pitfalls-of-using-capture-the-flag-games-in-university-courses)
+
 ## [Závěr](#závěr-a-doporučení)
 - [Shrnutí klíčových bodů](#důležitost-cft-v-kyberprostředí)
 - [Doporučení pro začátečníky a pokročilé hráče CTF](#doporučení-pro-další-výzkum-a-praxi)
@@ -182,6 +185,20 @@ Tato část obsahu detailně popisuje různé kategorie úkolů, které mohou b�
 - **Výzvy pro pořadatele CTF**: Jak mohou pořadatelé CTF soutěží reagovat na rychlý vývoj kyberbezpečnostního prostředí a technologií?
 
 - **Příležitosti pro účastníky**: Jakým způsobem mohou účastníci využít CTF soutěže pro svůj profesní rozvoj v oblasti kyberbezpečnosti?
+
+---
+
+# Vědecké práce na téma CTF
+
+## Výhody a nevýhody používání ctf na Univerzitních koužkách\(Benefits and Pitfalls of Using Capture the Flag Games in University Courses\)
+- **Cíl článku**: Prezentovat zkušenosti a doporučení z použití dvou CTF her jako domácích úkolů v úvodním kurzu o informační a systémové bezpečnosti. Porovnat výhody a nevýhody CTF her s tradičními formami hodnocení.
+
+- **Metoda článku**: Použít CTFd, populární open-source platformu pro CTF hry, a rozšířit ji o funkce pro lineární odemykání úloh a sběr zpětné vazby od hráčů. Analyzovat data z logů hry, průzkumů mezi studenty a známek z jiných typů hodnocení v kurzu. Hledat korelace mezi proměnnými a identifikovat vzory a anomálie popisující výkon a zapojení různých studentů v CTF hrách.
+
+- **Výsledky článku**: Zjistit, že CTF hry jsou obecně příznivé pro oba instruktory i studenty. Instruktoři mohou ušetřit čas strávený opravováním studentských prací a umožnit studentům učit se praktické dovednosti v interaktivní a zábavné formě. Většina studentů, kteří odpověděli na průzkum po hře, by raději dokončila CTF hry než běžné domácí úkoly ve svých budoucích bezpečnostních kurzech. Upozornit také na několik úskalí používání CTF her v sumativním hodnocení. Instruktoři by měli pečlivě zvážit formát hry, bodování (rozdělení bodů úloh hry a náklady na nápovědu), platformu CTF pro spuštění hry a dobu trvání hry.
+
+- Závěr článku: Navrhnout několik replikovatelných metod analýzy herních událostí, které se aplikují na jakoukoli CTF hru s běžnými základními funkcemi bez ohledu na obsah úloh. Přispět také k současné praxi provádění CTF her vývojem dvou open-source softwarových pluginů, které rozšiřují populární platformu CTFd o funkce lineárního odemykání úloh a sběru zpětné vazby od hráčů. V budoucí práci plánujeme vyvinout další pluginy implementující metody učení analytiky a další funkce, které zlepší učební zkušenost studentů a pomohou instruktorům navrhovat a provozovat CTF hry efektivněji.
+
 
 ---
 
