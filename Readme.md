@@ -1,8 +1,8 @@
 # Skript na Kyberbezpečnost v rámci hry Capture The Flag (CTF)
 
 ## Úvod
-- [Co je hra Capture The Flag (CTF)?](#úvod-1)
-- [Význam kyberbezpečnosti v CTF soutěžích]()
+- [Co je hra Capture The Flag (CTF)?](#co-je-hra-capture-the-flag-ctf)
+- [Význam kyberbezpečnosti v CTF soutěžích](#význam-kyberbezpečnosti-v-ctf-soutěžích)
 
 ## Kategorie úkolů v CTF
 - Kyberbezpečnostní úkoly v CTF
