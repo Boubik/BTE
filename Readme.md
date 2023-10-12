@@ -14,32 +14,32 @@
 - [Další kategorie úkolů](#další-kategorie-úkolů)
 
 ## Nástroje a techniky pro úspěšné CTF
-- Kybernetické nástroje pro analýzu
-- Debugging a reverse engineering nástroje
-- Sniffing a analýza síťové komunikace
-- Nástroje pro steganografii
-- Vyšetřovací techniky pro network forensics
+- [Kybernetické nástroje pro analýzu](#kybernetické-nástroje-pro-analýzu)
+- [Debugging a reverse engineering nástroje](#debugging-a-reverse-engineering-nástroje)
+- [Sniffing a analýza síťové komunikace](#sniffing-a-analýza-síťové-komunikace)
+- [Nástroje pro steganografii](#nástroje-pro-steganografii)
+- [Vyšetřovací techniky pro network forensics](#vyšetřovací-techniky-pro-network-forensics)
 
 ## Strategie a Taktiky
-- Přístupy k řešení CTF úkolů
-- Týmová spolupráce a rozdělení úkolů
-- Základní postupy pro úspěšné CTF týmy
+- [Přístupy k řešení CTF úkolů](
+- [Týmová spolupráce a rozdělení úkolů](
+- [Základní postupy pro úspěšné CTF týmy](
 
 ## Kybernetické Bezpečnostní Rizika v CTF
-- Bezpečnostní hrozby spojené s CTF
-- Ochrana proti útokům v průběhu CTF
+- [Bezpečnostní hrozby spojené s CTF](
+- [Ochrana proti útokům v průběhu CTF](
 
 ## Etické a Právní Aspekty CTF
-- Etické chování v rámci CTF
-- Právní aspekty provádění CTF
+- [Etické chování v rámci CTF](
+- [Právní aspekty provádění CTF](
 
 ## Budoucnost CTF v Kyberbezpečnosti
-- Trendy v oblasti CTF soutěží
-- Vývoj kyberbezpečnostních výzev v CTF
+- [Trendy v oblasti CTF soutěží](
+- [Vývoj kyberbezpečnostních výzev v CTF](
 
 ## Závěr
-- Shrnutí klíčových bodů
-- Doporučení pro začátečníky a pokročilé hráče CTF
+- [Shrnutí klíčových bodů](
+- [Doporučení pro začátečníky a pokročilé hráče CTF](
 
 ---
 
