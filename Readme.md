@@ -98,5 +98,33 @@
 
 Tato část obsahu detailně popisuje různé kategorie úkolů, které mohou být součástí CTF soutěží, a poskytuje příklady úkolů v každé kategorii.
 
+# Nástroje a techniky pro úspěšné CTF
+
+## Kybernetické nástroje pro analýzu
+- **Definice kybernetických nástrojů**: Kybernetické nástroje jsou nezbytné pro analýzu a řešení CTF úkolů. Zahrnují skenery zranitelností, sniffery, analyzátory sítě a další.
+
+- **Příklady nástrojů**: Příklady zahrnují Nmap, Wireshark, Burp Suite, Metasploit a další nástroje pro získávání informací o cílových systémech.
+
+## Debugging a reverse engineering nástroje
+- **Definice debugging a reverse engineering nástrojů**: Tyto nástroje jsou klíčové pro analýzu a dekompilaci softwaru. Pomáhají odhalit skrytou funkcionalitu a zranitelnosti.
+
+- **Příklady nástrojů**: Příklady zahrnují IDA Pro, GDB, OllyDbg a další, které jsou užitečné pro reverse engineering a debugging aplikací.
+
+## Sniffing a analýza síťové komunikace
+- **Definice nástrojů pro sniffování a analýzu síťové komunikace**: Tyto nástroje jsou klíčové pro analýzu síťového provozu a detekci anomálií v komunikaci.
+
+- **Příklady nástrojů**: Příklady zahrnují Tcpdump, Wireshark, Snort a další nástroje pro monitorování a analýzu síťové komunikace.
+
+## Nástroje pro steganografii
+- **Definice steganografických nástrojů**: Steganografické nástroje pomáhají odhalit skryté zprávy v digitálních médiích.
+
+- **Příklady nástrojů**: Příklady zahrnují StegHide, OutGuess, stegsolve a další nástroje pro analýzu steganografie v obrázcích a médiích.
+
+## Vyšetřovací techniky pro network forensics
+- **Definice vyšetřovacích technik pro network forensics**: Tyto techniky se používají k rekonstrukci útoků na základě síťových stop.
+
+- **Příklady technik**: Příklady zahrnují analýzu logů, sledování síťových toků a rekonstrukci síťových událostí v rámci vyšetřování.
+
+
 
 
