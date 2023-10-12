@@ -1,10 +1,10 @@
 # Skript na Kyberbezpečnost v rámci hry Capture The Flag (CTF)
 
-## Úvod
+## [Úvod](#úvod-1)
 - [Co je hra Capture The Flag (CTF)?](#co-je-hra-capture-the-flag-ctf)
 - [Význam kyberbezpečnosti v CTF soutěžích](#význam-kyberbezpečnosti-v-ctf-soutěžích)
 
-## Kategorie úkolů v CTF
+## [Kategorie úkolů v CTF](#kategorie-úkolů-v-ctf-1)
 - [Kyberbezpečnostní úkoly v CTF](#kyberbezpečnostní-úkoly-v-ctf)
 - [Kryptografické úkoly](#kryptografické-úkoly)
 - [Reversing úkoly](#reversing-úkoly)
@@ -13,31 +13,31 @@
 - [Steganografie](#steganografie)
 - [Další kategorie úkolů](#další-kategorie-úkolů)
 
-## Nástroje a techniky pro úspěšné CTF
+## [Nástroje a techniky pro úspěšné CTF](#nástroje-a-techniky-pro-úspěšné-ctf-1)
 - [Kybernetické nástroje pro analýzu](#kybernetické-nástroje-pro-analýzu)
 - [Debugging a reverse engineering nástroje](#debugging-a-reverse-engineering-nástroje)
 - [Sniffing a analýza síťové komunikace](#sniffing-a-analýza-síťové-komunikace)
 - [Nástroje pro steganografii](#nástroje-pro-steganografii)
 - [Vyšetřovací techniky pro network forensics](#vyšetřovací-techniky-pro-network-forensics)
 
-## Strategie a Taktiky
+## [Strategie a Taktiky](#strategie-a-taktiky-1)
 - [Přístupy k řešení CTF úkolů](#přístupy-k-řešení-ctf-úkolů)
 - [Týmová spolupráce a rozdělení úkolů](#týmová-spolupráce-a-rozdělení-úkolů)
 - [Základní postupy pro úspěšné CTF týmy](#základní-postupy-pro-úspěšné-ctf-týmy)
 
-## Kybernetické Bezpečnostní Rizika v CTF
+## [Kybernetické Bezpečnostní Rizika v CTF](#kybernetické-bezpečnostní-rizika-v-ctf-1)
 - [Bezpečnostní hrozby spojené s CTF](#bezpečnostní-hrozby-spojené-s-ctf)
 - [Ochrana proti útokům v průběhu CTF](#ochrana-proti-útokům-v-průběhu-ctf)
 
 ## [Etické a Právní Aspekty CTF](#etické-a-právní-aspekty-ctf-1)
-- Etické chování v rámci CTF
-- Právní aspekty provádění CTF
+- [Etické chování v rámci CTF](#etické-chování-v-rámci-ctf)
+- [Právní aspekty provádění CTF](#právní-aspekty-provádění-ctf)
 
-## Budoucnost CTF v Kyberbezpečnosti
+## [Budoucnost CTF v Kyberbezpečnosti](
 - [Trendy v oblasti CTF soutěží](
 - [Vývoj kyberbezpečnostních výzev v CTF](
 
-## Závěr
+## [Závěr](
 - [Shrnutí klíčových bodů](
 - [Doporučení pro začátečníky a pokročilé hráče CTF](
 
