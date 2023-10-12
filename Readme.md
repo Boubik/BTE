@@ -37,9 +37,9 @@
 - [Trendy v oblasti CTF soutěží](
 - [Vývoj kyberbezpečnostních výzev v CTF](
 
-## [Závěr](
-- [Shrnutí klíčových bodů](
-- [Doporučení pro začátečníky a pokročilé hráče CTF](
+## [Závěr](#závěr-a-doporučení)
+- [Shrnutí klíčových bodů](#důležitost-cft-v-kyberprostředí)
+- [Doporučení pro začátečníky a pokročilé hráče CTF](#doporučení-pro-další-výzkum-a-praxi)
 
 ---
 
@@ -158,6 +158,8 @@ Tato část obsahu detailně popisuje různé kategorie úkolů, které mohou b�
 
 - **Příklady ochranných opatření**: Příklady zahrnují izolaci CTF infrastruktury od provozu v reálném světě, pravidelnou aktualizaci a zabezpečení serverů a monitorování síťového provozu pro odhalení neobvyklých aktivit.
 
+---
+
 # Etické a Právní Aspekty CTF
 
 ## Etické chování v rámci CTF
@@ -180,6 +182,8 @@ Tato část obsahu detailně popisuje různé kategorie úkolů, které mohou b�
 - **Výzvy pro pořadatele CTF**: Jak mohou pořadatelé CTF soutěží reagovat na rychlý vývoj kyberbezpečnostního prostředí a technologií?
 
 - **Příležitosti pro účastníky**: Jakým způsobem mohou účastníci využít CTF soutěže pro svůj profesní rozvoj v oblasti kyberbezpečnosti?
+
+---
 
 # Závěr a Doporučení
 
