@@ -244,6 +244,3 @@ Tato část obsahu detailně popisuje různé kategorie úkolů, které mohou b�
 - **Směřování budoucího výzkumu**: Navrhněte oblasti, které by mohly být zkoumány v budoucích studiích týkajících se CTF v kyberprostředí.
 
 - **Praktické doporučení**: Nabídněte konkrétní rady pro jedince nebo týmy, kteří se chtějí více zapojit do CTF soutěží a rozvíjet své kyberbezpečnostní dovednosti.
-
-
-
