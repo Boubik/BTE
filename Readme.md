@@ -1,4 +1,4 @@
-# Skript na Kyberbezpečnost v rámci hry Capture The Flag (CTF)
+# Capture The Flag (CTF)
 
 ## [Úvod](#úvod-1)
 - [Co je hra Capture The Flag (CTF)?](#co-je-hra-capture-the-flag-ctf)
