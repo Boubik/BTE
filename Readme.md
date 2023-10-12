@@ -5,13 +5,13 @@
 - [Význam kyberbezpečnosti v CTF soutěžích](#význam-kyberbezpečnosti-v-ctf-soutěžích)
 
 ## Kategorie úkolů v CTF
-- Kyberbezpečnostní úkoly v CTF
-- Kryptografické úkoly
-- Reversing úkoly
-- Web aplikace a SQL Injection
-- Network Forensics
-- Steganografie
-- Další kategorie úkolů
+- [Kyberbezpečnostní úkoly v CTF](#kyberbezpečnostní-úkoly-v-ctf)
+- [Kryptografické úkoly](#kryptografické-úkoly)
+- [Reversing úkoly](#reversing-úkoly)
+- [Web aplikace a SQL Injection](#web-aplikace-a-sql-injection)
+- [Network Forensics](#network-forensics)
+- [Steganografie](#steganografie)
+- [Další kategorie úkolů](#další-kategorie-úkolů)
 
 ## Nástroje a techniky pro úspěšné CTF
 - Kybernetické nástroje pro analýzu
@@ -41,8 +41,7 @@
 - Shrnutí klíčových bodů
 - Doporučení pro začátečníky a pokročilé hráče CTF
 
-
-
+---
 
 # Úvod
 
@@ -57,6 +56,8 @@
 - **Výzvy v CTF**: CTF soutěže obsahují různé výzvy, včetně analýzy malware, hackingu, steganografie a dalších. Účastníci musí prokázat dovednosti v odhalování zranitelností a řešení kybernetických problémů.
 
 - **Příprava na reálný svět**: CTF soutěže připravují účastníky na reálné kybernetické hrozby a poskytují jim praktické zkušenosti, které jsou cenné pro kyberbezpečnostní profesionály.
+
+---
 
 # Kategorie úkolů v CTF
 
