@@ -21,17 +21,17 @@
 - [Vyšetřovací techniky pro network forensics](#vyšetřovací-techniky-pro-network-forensics)
 
 ## Strategie a Taktiky
-- [Přístupy k řešení CTF úkolů](
-- [Týmová spolupráce a rozdělení úkolů](
-- [Základní postupy pro úspěšné CTF týmy](
+- [Přístupy k řešení CTF úkolů](#přístupy-k-řešení-ctf-úkolů)
+- [Týmová spolupráce a rozdělení úkolů](#týmová-spolupráce-a-rozdělení-úkolů)
+- [Základní postupy pro úspěšné CTF týmy](#základní-postupy-pro-úspěšné-ctf-týmy)
 
 ## Kybernetické Bezpečnostní Rizika v CTF
-- [Bezpečnostní hrozby spojené s CTF](
-- [Ochrana proti útokům v průběhu CTF](
+- [Bezpečnostní hrozby spojené s CTF](#bezpečnostní-hrozby-spojené-s-ctf)
+- [Ochrana proti útokům v průběhu CTF](#ochrana-proti-útokům-v-průběhu-ctf)
 
-## Etické a Právní Aspekty CTF
-- [Etické chování v rámci CTF](
-- [Právní aspekty provádění CTF](
+## [Etické a Právní Aspekty CTF](#etické-a-právní-aspekty-ctf-1)
+- Etické chování v rámci CTF
+- Právní aspekty provádění CTF
 
 ## Budoucnost CTF v Kyberbezpečnosti
 - [Trendy v oblasti CTF soutěží](
@@ -98,6 +98,8 @@
 
 Tato část obsahu detailně popisuje různé kategorie úkolů, které mohou být součástí CTF soutěží, a poskytuje příklady úkolů v každé kategorii.
 
+---
+
 # Nástroje a techniky pro úspěšné CTF
 
 ## Kybernetické nástroje pro analýzu
@@ -141,6 +143,8 @@ Tato část obsahu detailně popisuje různé kategorie úkolů, které mohou b�
 - **Zásady pro týmy**: Existují zásady, které mohou pomoci týmům dosáhnout úspěchu, včetně komunikace, dokumentace pokroků a využívání specializovaných rolí.
 
 - **Příklady postupů**: Příklady zahrnují pravidelné týmové meetingy, rozdělení členů týmu na úkoly, a systematickou evidenci postupu.
+
+---
 
 # Kybernetické Bezpečnostní Rizika v CTF
 
