@@ -33,9 +33,9 @@
 - [Etické chování v rámci CTF](#etické-chování-v-rámci-ctf)
 - [Právní aspekty provádění CTF](#právní-aspekty-provádění-ctf)
 
-## [Budoucnost CTF v Kyberbezpečnosti](
+## [Budoucnost CTF v Kyberbezpečnosti](#budoucnost-ctf-v-kyberbezpečnosti-1)
 - [Trendy v oblasti CTF soutěží](#trendy-v-oblasti-ctf-soutěží)
-- [Vývoj kyberbezpečnostních výzev v CTF](
+- [Vývoj kyberbezpečnostních výzev v CTF](#vývoj-kyberbezpečnostních-výzev-v-ctf)
 
 ## [Vědecké práce na téma CTF](#vědecké-práce-na-téma-ctf-1)
 - [Výhody a nevýhody používání ctf na Univerzitních koužkách\(Benefits and Pitfalls of Using Capture the Flag Games in University Courses\)](#výhody-a-nevýhody-používání-ctf-na-univerzitních-koužkách-benefits-and-pitfalls-of-using-capture-the-flag-games-in-university-courses)
@@ -189,7 +189,7 @@ Tato část obsahu detailně popisuje různé kategorie úkolů, které mohou b�
 
 ---
 
-#[Budoucnost CTF v Kyberbezpečnosti
+# Budoucnost CTF v Kyberbezpečnosti
 
 ## Trendy v oblasti CTF soutěží
 - CTF soutěže jsou stále populárnější jako způsob testování a rozvíjení dovedností v kybernetické bezpečnosti, ať už pro zábavu, vzdělávání nebo nábor.
