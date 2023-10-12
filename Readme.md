@@ -38,7 +38,8 @@
 - [Vývoj kyberbezpečnostních výzev v CTF](
 
 ## [Vědecké práce na téma CTF](#vědecké-práce-na-téma-ctf-1)
-- [Výhody a nevýhody používání ctf na Univerzitních koužkách\(Benefits and Pitfalls of Using Capture the Flag Games in University Courses\)](#výhody-a-nevýhody-používání-ctf-na-univerzitních-koužkáchbenefits-and-pitfalls-of-using-capture-the-flag-games-in-university-courses)
+- [Výhody a nevýhody používání ctf na Univerzitních koužkách\(Benefits and Pitfalls of Using Capture the Flag Games in University Courses\)](#výhody-a-nevýhody-používání-ctf-na-univerzitních-koužkách-benefits-and-pitfalls-of-using-capture-the-flag-games-in-university-courses)
+- [Analýza a hodnocení otevřených platforem pro hry typu Capture the Flag jako nástrojů pro e-learning v oblasti kybernetické bezpečnosti (An Analysis and Evaluation of Open Source Capture the Flag Platforms as Cybersecurity e-Learning Tools)](#analýza-a-hodnocení-otevřených-platforem-pro-hry-typu-capture-the-flag-jako-nástrojů-pro-e-learning-v-oblasti-kybernetické-bezpečnosti-an-analysis-and-evaluation-of-open-source-capture-the-flag-platforms-as-cybersecurity-e-learning-tools)
 
 ## [Závěr](#závěr-a-doporučení)
 - [Shrnutí klíčových bodů](#důležitost-cft-v-kyberprostředí)
@@ -190,7 +191,7 @@ Tato část obsahu detailně popisuje různé kategorie úkolů, které mohou b�
 
 # Vědecké práce na téma CTF
 
-## Výhody a nevýhody používání ctf na Univerzitních koužkách\(Benefits and Pitfalls of Using Capture the Flag Games in University Courses\)
+## Výhody a nevýhody používání ctf na Univerzitních koužkách \(Benefits and Pitfalls of Using Capture the Flag Games in University Courses\)
 - **Cíl článku**: Prezentovat zkušenosti a doporučení z použití dvou CTF her jako domácích úkolů v úvodním kurzu o informační a systémové bezpečnosti. Porovnat výhody a nevýhody CTF her s tradičními formami hodnocení.
 
 - **Metoda článku**: Použít CTFd, populární open-source platformu pro CTF hry, a rozšířit ji o funkce pro lineární odemykání úloh a sběr zpětné vazby od hráčů. Analyzovat data z logů hry, průzkumů mezi studenty a známek z jiných typů hodnocení v kurzu. Hledat korelace mezi proměnnými a identifikovat vzory a anomálie popisující výkon a zapojení různých studentů v CTF hrách.
@@ -198,6 +199,19 @@ Tato část obsahu detailně popisuje různé kategorie úkolů, které mohou b�
 - **Výsledky článku**: Zjistit, že CTF hry jsou obecně příznivé pro oba instruktory i studenty. Instruktoři mohou ušetřit čas strávený opravováním studentských prací a umožnit studentům učit se praktické dovednosti v interaktivní a zábavné formě. Většina studentů, kteří odpověděli na průzkum po hře, by raději dokončila CTF hry než běžné domácí úkoly ve svých budoucích bezpečnostních kurzech. Upozornit také na několik úskalí používání CTF her v sumativním hodnocení. Instruktoři by měli pečlivě zvážit formát hry, bodování (rozdělení bodů úloh hry a náklady na nápovědu), platformu CTF pro spuštění hry a dobu trvání hry.
 
 - Závěr článku: Navrhnout několik replikovatelných metod analýzy herních událostí, které se aplikují na jakoukoli CTF hru s běžnými základními funkcemi bez ohledu na obsah úloh. Přispět také k současné praxi provádění CTF her vývojem dvou open-source softwarových pluginů, které rozšiřují populární platformu CTFd o funkce lineárního odemykání úloh a sběru zpětné vazby od hráčů. V budoucí práci plánujeme vyvinout další pluginy implementující metody učení analytiky a další funkce, které zlepší učební zkušenost studentů a pomohou instruktorům navrhovat a provozovat CTF hry efektivněji.
+
+[odkaz na vědeckou práci](https://arxiv.org/pdf/2004.11556.pdf)
+
+## Analýza a hodnocení otevřených platforem pro hry typu Capture the Flag jako nástrojů pro e-learning v oblasti kybernetické bezpečnosti \(An Analysis and Evaluation of Open Source Capture the Flag Platforms as Cybersecurity e-Learning Tools\)
+- **Cíl článku**: Porovnat čtyři populární open source platformy pro CTF hry a identifikovat jejich klíčové komponenty jako e-learningové nástroje pro vysokoškolské vzdělávání.
+
+- **Metoda článku**: Provést empirickou studii, která zahrnuje přímé pozorování a jednotlivé rozhovory s devíti studenty informatiky, kteří poskytli svůj názor na každou platformu. Použít kritéria pro hodnocení platforem založená na normách ISO/IEC 25010:2011 a rubrikách pro hodnocení e-learningových nástrojů.
+
+- **Výsledky článku**: Zjistit, že každá platforma má své silné a slabé stránky, které ovlivňují její použitelnost, učební přítomnost, funkčnost, spolehlivost, udržitelnost a kompatibilitu. Zjistit také, že studenti považují za důležité různé atributy platforem, jako jsou vizualizace, odemykání úloh, hypermédia, žebříčky, odměny, předložení vlajek a vyprávění příběhů.
+
+- **Závěr článku**: Doporučit CTFd a Root the Box jako nejvhodnější platformy pro vzdělávací účely, zatímco FBCTF jako vhodnou platformu pro pořádání CTF soutěží jako události. Doporučit také Mellivoru jako vhodnou platformu pro omezené systémové zdroje. Navrhnout několik možných rozšíření a vylepšení platforem, které by zlepšily jejich učební potenciál.
+
+[odkaz na vědeckou práci](https://link.springer.com/chapter/10.1007/978-3-030-59291-2_5)
 
 
 ---
