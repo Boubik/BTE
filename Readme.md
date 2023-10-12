@@ -40,3 +40,22 @@
 ## Závěr
 - Shrnutí klíčových bodů
 - Doporučení pro začátečníky a pokročilé hráče CTF
+
+
+
+
+# Úvod
+
+## Co je hra Capture The Flag (CTF)?
+- **Definice CTF**: CTF (Capture The Flag) je forma kyberbezpečnostní soutěže, kde účastníci řeší různé kybernetické výzvy, aby objevili a získali tzv. "vlajky" (flags). Tyto vlajky mohou být digitální soubory, hesla, klíče nebo jiné důležité informace, které je třeba získat.
+
+- **Cíl CTF**: Hlavním cílem CTF je vylepšit dovednosti v oblasti kyberbezpečnosti, včetně dovedností v penetration testingu, programování, kryptografii, analýze zranitelností a dalších oblastí.
+
+## Význam kyberbezpečnosti v CTF soutěžích
+- **Kyberbezpečnostní aspekt**: Kyberbezpečnost hraje klíčovou roli v CTF soutěžích. Účastníci musí být schopni rozumět a efektivně využívat kyberbezpečnostních nástrojů a technik pro řešení úkolů a zajištění bezpečnosti svých vlastních systémů.
+
+- **Výzvy v CTF**: CTF soutěže obsahují různé výzvy, včetně analýzy malware, hackingu, steganografie a dalších. Účastníci musí prokázat dovednosti v odhalování zranitelností a řešení kybernetických problémů.
+
+- **Příprava na reálný svět**: CTF soutěže připravují účastníky na reálné kybernetické hrozby a poskytují jim praktické zkušenosti, které jsou cenné pro kyberbezpečnostní profesionály.
+
+Tento úvodní odstavec poskytuje čtenářům rychlý přehled o tom, co CTF je a proč je kyberbezpečnost důležitým prvkem těchto soutěží.
