@@ -125,6 +125,43 @@ Tato část obsahu detailně popisuje různé kategorie úkolů, které mohou b�
 
 - **Příklady technik**: Příklady zahrnují analýzu logů, sledování síťových toků a rekonstrukci síťových událostí v rámci vyšetřování.
 
+# Strategie a Taktiky
+
+## Přístupy k řešení CTF úkolů
+- **Definice různých přístupů**: Existují různé strategie pro řešení CTF úkolů. Někteří účastníci preferují systematický přístup, zatímco jiní se spoléhají na intuici a kreativitu.
+
+- **Příklady strategií**: Příklady zahrnují metody pro postupné ladění úlohy, analýzu zdrojového kódu, nebo rychlé prohledávání sítí a systémů.
+
+## Týmová spolupráce a rozdělení úkolů
+- **Důležitost týmové spolupráce**: V mnoha CTF soutěžích se týmy skládají z různých odborníků. Důležité je efektivní rozdělení úkolů a spolupráce v rámci týmu.
+
+- **Rozdělení úkolů**: Týmy by měly efektivně rozdělit úkoly podle dovedností jednotlivých členů, aby dosáhly optimálního výkonu.
+
+## Základní postupy pro úspěšné CTF týmy
+- **Zásady pro týmy**: Existují zásady, které mohou pomoci týmům dosáhnout úspěchu, včetně komunikace, dokumentace pokroků a využívání specializovaných rolí.
+
+- **Příklady postupů**: Příklady zahrnují pravidelné týmové meetingy, rozdělení členů týmu na úkoly, a systematickou evidenci postupu.
+
+# Kybernetické Bezpečnostní Rizika v CTF
+
+## Bezpečnostní hrozby spojené s CTF
+- **Definice bezpečnostních hrozeb**: CTF soutěže mohou také nést rizika, zejména pokud nejsou prováděny odpovídajícím způsobem. Účastníci by měli být obezřetní ohledně možných hrozeb.
+
+- **Příklady bezpečnostních hrozeb**: Příklady zahrnují útoky na samotné infrastruktury CTF, včetně serverů a komunikačních kanálů.
+
+## Ochrana proti útokům v průběhu CTF
+- **Zásady ochrany**: Existují opatření, která mohou být přijata pro ochranu CTF infrastruktury a účastníků před útoky a zneužitím.
+
+- **Příklady ochranných opatření**: Příklady zahrnují izolaci CTF infrastruktury od provozu v reálném světě, pravidelnou aktualizaci a zabezpečení serverů a monitorování síťového provozu pro odhalení neobvyklých aktivit.
+
+## Etické a Právní Aspekty CTF
+- **Etické chování v CTF**: Účastníci by měli dodržovat etický kodex a respektovat pravidla soutěže. Porušení etických pravidel může vést k diskvalifikaci.
+
+- **Právní aspekty provádění CTF**: Provozovatelé CTF soutěží by měli být obezřetní ohledně právních aspektů, včetně autorských práv a dodržování zákonů o kybernetické bezpečnosti.
+
+Tato část obsahu se zaměřuje na bezpečnostní rizika, která mohou vzniknout v průběhu CTF soutěží, a na opatření, která lze přijmout pro ochranu infrastruktury a účastníků. Též zdůrazňuje důležitost etického chování a právních aspektů CTF.
+
+
 
 
 
